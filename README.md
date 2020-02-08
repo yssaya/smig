@@ -1,4 +1,4 @@
-# GPU usage text graph for Linux
+# GPU text graph for Linux
 
 ![image](https://user-images.githubusercontent.com/35514258/74076129-7729e300-4a59-11ea-8be7-e04cf889b995.png)
 
